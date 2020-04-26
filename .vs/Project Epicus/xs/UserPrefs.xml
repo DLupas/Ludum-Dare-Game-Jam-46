@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{69454ADD-C903-E3FC-98F5-388792ED1C32}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/guardmove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/guardmove.cs" Line="9" Column="38" />
+      <File FileName="Assets/Scripts/eventsystem.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/robotmove.cs" Line="82" Column="12" />
+      <File FileName="Assets/Scripts/SmoothCamera2D.cs" />
+      <File FileName="Assets/Scripts/guardaudio.cs" Line="31" Column="15" />
+      <File FileName="Assets/Scripts/PlayerMove.cs" Line="84" Column="6" />
+      <File FileName="Assets/playermovesimple.cs" Line="38" Column="39" />
+      <File FileName="Assets/gameover.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project Epicus" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="guardmove.cs" selected="True" />
+              </Node>
+              <Node name="Unity Technologies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d242f251-24fa-49f5-b695-da64aa19a2b6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
